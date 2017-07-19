@@ -28,5 +28,10 @@
   5. Create your index.html layout along with your <button> or <a> tag.
   6. Write your event handler function in your app.js file to listen for the onclick event and use the alert() method to notify the user br they have clicked on the button.
 
-### Resources.
+### Stretch Goals
+-add sounds
+-add more pets
+-add more html pages.
+-add a form.
 
+### Resources
